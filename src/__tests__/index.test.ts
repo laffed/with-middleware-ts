@@ -5,7 +5,7 @@ import {
   noMiddlewareAsync,
   withMiddlewareCreator,
   withMiddlewareCreatorAsync
-} from '../withMiddleware';
+} from '../';
 
 
 type DB = {
